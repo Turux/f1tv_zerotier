@@ -5,10 +5,10 @@
 
 # --- Configuration ---
 # The name of your VPN network interface.
-ZT_NETWORK="d5e5fb65371ef164"
+ZT_NETWORK="AAAAAAAAAAAA"
 URL="https://f1tv.formula1.com"
 # The city you expect your VPN to be in.
-EXPECTED_COUNTRY="DE"
+EXPECTED_COUNTRY="AA"
 # How many times to check the connection before giving up.
 MAX_RETRIES=6
 # How many seconds to wait between checks.
